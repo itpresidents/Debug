@@ -52,7 +52,7 @@ FYI: Exception is programmer-speak for error.
 - Null Pointer Exception 
 - Can't find anything named ____
 
-- Looks like you are mixing static and dynamic modes
+- It looks like you are mixing static and active modes: You have drawing code outside of the draw loop. If you're going to use the draw loop to create animations, all drawing code must be inside draw(){}
 
 The Ten Commandments of Coding from Jared Shiffman
 --------------------------------------------------
