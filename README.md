@@ -6,6 +6,7 @@ My Code is Broken, Now What?
 
 - The Deck: [10 Tips for Debugging](https://docs.google.com/presentation/d/19N_o7Ts4ZL-Ow2bDx-A4sin__ZOneifKQrcU-YDHFAw/edit)
 - Excellent article on [how to approach problem-solving](http://mattgemmell.com/2008/12/08/what-have-you-tried/)
+- Clay Shirky's guide to the [Basics of Debugging](https://docs.google.com/document/d/1ZekLDsbLpySJgFvYYtpYmWMEQ3kiUNW6fOt7BNmTHX8/edit)
 
 Vocabulary to Help You Write Your Comment
 -----------------------------------------
